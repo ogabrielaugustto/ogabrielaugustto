@@ -9,7 +9,7 @@
 -->
 ### 👨🏽‍💻 Oi, sou o <strong>Gabriel Augusto!</strong>
 
-> Estou na área de tecnologia desde 2020, iniciando nas áreas de infraestrutura, porém, me apaixonando por desenvolvimento front-end e mobile. Iniciei estudando e desenvolvendo sites web, focado no front-end, mas para conhecimentos gerais realizavas integrações com banco para criar algo mais completo e colocar a lógica do back-end em prática. Conheci Flutter, e me apaixonei novamente por uma nova tecnologia, hoje estudo e aprimoro meus conhecimentos em Flutter e Java para desenvolvimento mobile, enquanto busco me especializar em UI Designer, para complementar meus conhecimentos em ambas áreas de desenvolvimento.
+> Estou na área de tecnologia desde 2020, iniciando nas áreas de infraestrutura, porém, me apaixonando por desenvolvimento front-end e mobile. Iniciei estudando e desenvolvendo sites web, focado no front-end, mas para conhecimentos gerais realizavas integrações com banco para criar algo mais completo e colocar a lógica do back-end em prática. Conheci Flutter, e me apaixonei novamente por uma nova tecnologia, hoje estudo e aprimoro meus conhecimentos em Flutter, Java Script, React js e React Native, enquanto busco me especializar em UI Designer, para complementar meus conhecimentos em ambas áreas de desenvolvimento.
 
 <!-- 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.-->
 
